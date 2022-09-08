@@ -4,7 +4,7 @@
 # In[ ]:
 
 
-get_ipython().system('pip install joblib')
+
 import joblib
 import matplotlib.pyplot as plt
 import pandas as pd
